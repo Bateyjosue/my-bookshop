@@ -7,9 +7,10 @@
   "private": true,
   "dependencies": {
     "@sap/cds": "^7",
-    "express": "^4",
+    "@sap/cds-hana": "^2",
     "@sap/xssec": "^3",
-    "@sap/cds-hana": "^2"
+    "express": "^4",
+    "rimraf": "^5.0.5"
   },
   "devDependencies": {
     "@cap-js/sqlite": "^1",
